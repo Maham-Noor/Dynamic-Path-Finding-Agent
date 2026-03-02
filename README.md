@@ -46,8 +46,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dynamic-pathfinding-agent.git
-cd dynamic-pathfinding-agent
+git clone https://github.com/YOUR_USERNAME/Dynamic-Path-Finding-Agent.git
+cd Dynamic-Path-Finding-Agent
 ```
 
 ### 2. Install dependencies
@@ -75,7 +75,7 @@ The application window will open immediately at **1280 x 820** pixels with a def
 ## Project Structure
 
 ```
-dynamic-pathfinding-agent/
+Dynamic-Path-Finding-Agent/
 │
 ├── main.py                    # Entry point — initializes Pygame and launches the app
 │
